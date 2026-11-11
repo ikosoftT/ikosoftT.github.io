@@ -4,7 +4,7 @@ export const portfolio = {
   role: "Web Developer",
   location: "Marrakech, Morocco",
   email: "hello@ikosoft.dev",
-  whatsapp: "212600000000",
+  whatsapp: "212624637669",
   intro:
     "I design and build modern websites that are fast, responsive, and focused on real business goals.",
   services: [
